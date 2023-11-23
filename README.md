@@ -1,6 +1,11 @@
 # angelo.magalhaes_ex3
 objectif: afficher hello world
+
+
 ![image](https://github.com/Lo0kii/angelo.magalhaes_ex3/assets/109228312/bcda9037-9faf-455b-8756-ad86d8e3ac11)
+
+
+
 pour commencer, comme dhab crée un dossier , avec un main.tf et terraform.exe a l'interrieure, sur vs code ouvrir le dossier et le fichier main.tf
 tips, dans la console iam dans aws oublier pas de mettre les droits necessaire a l'utilisateur 
 
@@ -15,6 +20,9 @@ resource "aws_instance" "geto_est_mort" : Déclare une ressource AWS de type ins
 resource "aws_security_group" "HK_web" : Déclare un groupe de sécurité qui autorise le trafic HTTP (port 80) et le trafic SSH (port 22). Il porte le nom "HK-web". De plus, il spécifie une règle de trafic sortant permettant toutes les sorties.
 
 en bonus Le message dans la page HTML indique que "Geto SUGURU est mort avec la tête tranchée par Yuta, bonne soirée."
+
+
+
 
    ![image](https://github.com/Lo0kii/angelo.magalhaes_ex3/assets/109228312/70761af5-bd46-464b-807e-3806c2ecc185)
 
