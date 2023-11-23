@@ -27,3 +27,4 @@ en bonus Le message dans la page HTML indique que "Geto SUGURU est mort avec la 
    ![image](https://github.com/Lo0kii/angelo.magalhaes_ex3/assets/109228312/70761af5-bd46-464b-807e-3806c2ecc185)
 
 
+pour celui la j'ai eu des galere pour la page html, et trouver des information dessus sur internet c'etait long, la partie pour donner les droit a l'utilisateur, jai pas trouver la solution tout seul on m'a aider.
